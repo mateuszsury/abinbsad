@@ -17,3 +17,11 @@ authorized, isolated lab. See the continuation's runtime guide for current setup
 CI parses the extracted sources without executing network experiments. No
 production readiness, hardware support or defensive efficacy is claimed here.
 Original source is MIT licensed; retain genuine third-party notices.
+
+## Project overview
+
+Inspectable historical Python experiments for IoT and network research.
+
+![IoT research archive — Archive overview. Syntax validation does not reproduce the original network experiments.](docs/assets/presentation/overview.svg)
+
+Archive overview. Syntax validation does not reproduce the original network experiments.
